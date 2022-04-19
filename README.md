@@ -1,3 +1,5 @@
-# Stream Template Repository
+# CE09OSSM-SBD11-04-VELPTA000-telemetered-velpt_ab_dcl_instrument
 
-This repository is a template for all the other repositories.
+Stream Type: Science<br>
+Stream Content: Data Products<br>
+Instrument Group Code: VELPT<br>
